@@ -14,7 +14,7 @@ Tavi helps Discord communities stay organized, welcoming, and active from one pl
 
 ## Get started
 
-Visit [tavibot.app](https://tavibot.app) to learn more about Tavi and bring it to your Discord community.
+Visit [tavi-bot.com](https://tavi-bot.com) to learn more about Tavi and bring it to your Discord community.
 
 ## Built for communities
 
@@ -22,7 +22,7 @@ Tavi is designed for community owners, moderators, and members alike: straightfo
 
 ## Connect with Tavi
 
-- Website: [tavibot.app](https://tavibot.app)
+- Website: [tavi-bot.com](https://tavi-bot.com)
 - GitHub: [github.com/tavibot](https://github.com/tavibot)
 
 ## Contributing
