@@ -1,3 +1,9 @@
+<div align="center">
+
+<img src="IMG_2341.PNG" alt="Coolify logo" width="120" />
+
+</div>
+
 # Tavi
 
 **The all-in-one bot for better Discord communities.**
