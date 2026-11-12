@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+  
 # Tavi
+
+</div>
 
 **The all-in-one bot for better Discord communities.**
 
