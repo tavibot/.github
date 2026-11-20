@@ -1,10 +1,4 @@
 <div align="center">
-
-<img src="IMG_2341.PNG" alt="Coolify logo" width="120" />
-
-</div>
-
-<div align="center">
   
 # Tavi
 
